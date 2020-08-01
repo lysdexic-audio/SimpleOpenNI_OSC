@@ -1,6 +1,6 @@
 # SimpleOpenNI_OSC
 <br>
-OSC output for SimpleOpenNI in Processing 3.3.6+ <br>
+OSC output for SimpleOpenNI (Microsoft Kinect) in Processing 3.3.6+ <br>
 Defaults to dump OSC out: 127.0.0.1, port 33333 <br>
 <br>
 <b>Dependencies:<br><br> 
